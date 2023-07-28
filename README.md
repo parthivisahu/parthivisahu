@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthivisahu" alt="parthivisahu" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Management System**
+- 🔭 I’m currently working on **Kpopify - For translating lyrics of song into your desired language**
 
-- 🌱 I’m currently learning **Express JS, MONGO DB**
+- 🌱 I’m currently learning ** to use APIs**
 
 - 👨‍💻 All of my projects are available at [https://parthivisahu.github.io/Portfolio/](https://parthivisahu.github.io/Portfolio/)
 
