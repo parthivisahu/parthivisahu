@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Parthivi Sahu</h1>
-<h3 align="center">A passionate MERN stack and UI/UX Developer from India</h3>
+<h3 align="center">A passionate Full stack Developer from India</h3>
 <img align ="center" style={ height:"80px", width:"100px"} src="https://drive.google.com/uc?export=view&id=1i7TT74LcKLZdnrVWMBZK5i-yfF2FOJcM "> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=parthivisahu&label=Profile%20views&color=0e75b6&style=flat" alt="parthivisahu" /> </p>
