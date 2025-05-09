@@ -7,9 +7,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthivisahu" alt="parthivisahu" /></a> </p>
 
-- 🔭 I’m currently working on **Kpopify - For translating lyrics of song into your desired language**
+- 🔭 I’m currently working on different AI tools
 
-- 🌱 I’m currently learning ** to use APIs**
+- 🌱 I’m currently learning ** KAFKA**
 
 - 👨‍💻 All of my projects are available at [https://parthivisahu.github.io/Portfolio/](https://parthivisahu.github.io/Portfolio/)
 
